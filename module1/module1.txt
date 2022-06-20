@@ -1,1 +1,1 @@
-go test -v -run Module1 > module1.txt
+go env > module1.txt
