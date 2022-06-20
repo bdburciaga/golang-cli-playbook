@@ -1,0 +1,1 @@
+go <sub-command> > module1.txt
